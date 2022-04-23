@@ -1,6 +1,6 @@
 ## Installation
 
-Clone the repository.
+Clone the repository.\
 In the project directory, you can run:
 
 ### `npm start`
