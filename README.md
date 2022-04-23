@@ -1,6 +1,7 @@
 ## Installation
 
 Clone the repository.\
+Locate the repo's project directory.\
 In the project directory, you can run:
 
 ### `npm start`
