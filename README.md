@@ -1,3 +1,10 @@
+## Roadmap
+* Version 1.0: Build a working Tic-Tac-Toe application with React
+* Version 1.x: Add a win counter
+* Version 2.0: Develop AI, implementing a minmax() algorithm
+* Version 2.x: Create: Easy, Medium, Hard Difficulties
+* Version 3.0: Optimize and install service-workers to make app a PWA
+
 ## Installation
 
 Clone the repository and locate the repo's project directory.\
